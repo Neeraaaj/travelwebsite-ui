@@ -22,6 +22,7 @@ const Navbar = () => {
                 })}
             </ul>
 
+      
             <Image 
                 src={"/menu.svg"} 
                 alt="menu" 
